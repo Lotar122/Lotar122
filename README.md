@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lotar122
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning Vulkan
 - 📫 discord: lotar7899
 
 <!---
